@@ -127,13 +127,5 @@ https://github.com/helloharendra/Complete-Food-Delivery-App-Flutter/assets/12675
 ## Admin Web Portal
 
 https://github.com/helloharendra/Complete-Food-Delivery-App-Flutter/assets/78723011/f377d114-acf9-4a05-9eb0-e955e403fe34
-
 ---
 
-## 💼 Hire Me & Support My Work
-
-### 🤝 Available for Projects
-I'm open to **Flutter development**, **API integrations**, and **consulting work**.
-
-📱 **Phone/WhatsApp**: +20 01503668477 
-📧 **Email**: mazensherif339@gmail.com  
